@@ -6,9 +6,9 @@ print('Hello world')
 variavel_tipo_string = 'Conjunto de caracteres alfanumericos'
 
 
-variavel_tipo_int = 12	#número inteiro
+variavel_tipo_int = 12	# Número inteiro
 
-variavel_tipo_float = 15.3 	# número com casas decimais
+variavel_tipo_float = 15.3 	# Número com casas decimais
 
 variavel_tipo_bool = True	#Booleano
 
