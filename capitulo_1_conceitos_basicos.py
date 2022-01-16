@@ -10,7 +10,7 @@ variavel_tipo_int = 12	# Número inteiro
 
 variavel_tipo_float = 15.3 	# Número com casas decimais
 
-variavel_tipo_bool = True	#Booleano
+variavel_tipo_bool = True	# Booleano
 
 variavel_tipo_lista = [1, 2, 'Paulo', 'Maria', True]
 
